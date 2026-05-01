@@ -1,2 +1,2 @@
-Макет - https://clck.ru/3TPS7M
-Сайт - 
+- Макет - https://clck.ru/3TPS7M
+- Сайт - https://praporpingvin.github.io/Practic_2/#
