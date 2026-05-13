@@ -615,13 +615,13 @@ main {
 
 /* ---------header--------- */
 
-.logo {
+/* .logo {
     font-family: var(--font3);
     font-weight: 400;
     font-size: 32px;
     color: #eee;
     text-transform: uppercase;
-}
+} */
 
 .header_a_1 {
     font-family: var(--second-family);
